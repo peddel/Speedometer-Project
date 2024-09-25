@@ -3,6 +3,8 @@
 ## Overview:
 The Client-Server Speedometer System is designed to provide a real-time dashboard for monitoring speed, temperature, battery level, and light signals. Built using the Qt framework, the server controls and updates the displayed values, facilitating effective communication through a robust abstract communication interface. This project is ideal for understanding client-server architecture, multithreading, and real-time data management.
 
+![Client](../images/client.png) ![Server](../images/server.png)
+
 ## Key Features:
 
 **Server Control:**
