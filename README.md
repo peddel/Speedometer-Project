@@ -122,4 +122,4 @@ The project requires the Material Icons font. The CMake script includes function
 
 After building, the client and server applications can be executed from the terminal as follows:
   
- ./build/server & ./build/client
+   ./build/server & ./build/client
